@@ -1,0 +1,5 @@
+{
+  "name": "Medical Detective",
+  "description": "A scavenger hunt game for medical library database training, featuring multiple question types and progress tracking.",
+  "requestFramePermissions": []
+}
